@@ -1,0 +1,9 @@
+E:\test\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.deps.json
+E:\test\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.dll
+E:\test\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.pdb
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.AssemblyReference.cache
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfoInputs.cache
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfo.cs
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.CoreCompileInputs.cache
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.dll
+E:\test\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.pdb
